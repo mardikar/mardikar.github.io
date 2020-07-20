@@ -2,7 +2,8 @@
 layout: post
 title: Amazon Interview Experience
 date: 2020-07-20
-categories: interviews
+tags: interviews
+permalink: /amazon-2020
 ---
 # **Round 1 - Online assessment**
 + Some question related to heap data structure
