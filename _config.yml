@@ -27,7 +27,7 @@ url: "https://mardikar.github.io" # the base hostname & protocol for your site, 
 github_username:  mardikar
 
 # Build settings
-remote_theme: poole/lanyon
+theme: minima
 plugins:
   - jekyll-feed
 
