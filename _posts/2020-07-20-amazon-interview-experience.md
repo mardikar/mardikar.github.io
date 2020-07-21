@@ -13,9 +13,9 @@ permalink: /amazon-2020
 
 &nbsp;
 
-I was told within an hour that I'm selected for next round.\
-Round 2, 3 and 4 happened all on same day.\
-I was given 10 days of time after Round 1 for these 3 rounds.\
+I was told within an hour that I'm selected for next round.<br>
+Round 2, 3 and 4 happened all on same day.<br>
+I was given 10 days of time after Round 1 for these 3 rounds.<br>
 First round was 10:30 - 11:30 AM, second from 12:30 till 1:45 PM and third from 2 to 3:15 PM.
 
 ## **Round 2 - Problem-solving**
@@ -24,10 +24,10 @@ First round was 10:30 - 11:30 AM, second from 12:30 till 1:45 PM and third from 
 + Asked about time when I took the initiative to improve the process. - LP question
 + Find the first-non repeating character in a stream of characters. Similar to this <https://leetcode.com/problems/first-unique-character-in-a-string/>
 + Think you are a compiler, you are supposed to resolve the import statements.For example,
-    Inside module A:\
-    A imports B\
-    B imports C\
-    Then for A to work it needs to resolve the dependencies i.e. A => B  => C.\
+    Inside module A:<br>
+    A imports B<br>
+    B imports C<br>
+    Then for A to work it needs to resolve the dependencies i.e. A => B  => C.<br>
     I wrote a DFS based approach and the interviewer asked few questions to make sure, I have covered all the edge cases.
 + Asked if I have any questions.
 
@@ -37,11 +37,11 @@ First round was 10:30 - 11:30 AM, second from 12:30 till 1:45 PM and third from 
 + There are "p" people sitting in a circular arrangement among whom you are supposed to distribute the cake, you have p-1 cakes and you are supposed to give cake to every "N"th person , once you give cake to someone they are taken out of the seating arrangement, you are supposed to find out the person who will not get the cake after p-1 iterations.
   + I tried to see if I can find pattern and come up with formula to get it done in O(1) - spent 3-4 mins
     + Then I went ahead with circular linked list based approach
-+ "prefix" and a "dictionary of words" were given, you were supposed to find out all the words from dictionary that start prefix and have 2 more letters in them.\
-    For example:\
-        Words = ["abcde", "abc", "abcdf", "abcbdcc"]\
-        Prefix = "abc"\
-        Output = ["abcde", "abcdf"]\
++ "prefix" and a "dictionary of words" were given, you were supposed to find out all the words from dictionary that start prefix and have 2 more letters in them.<br>
+    For example:<br>
+        Words = ["abcde", "abc", "abcdf", "abcbdcc"]<br>
+        Prefix = "abc"<br>
+        Output = ["abcde", "abcdf"]<br>
     I replied with a trie based approach and the interviewer asked me to extend it to "k" letters instead "2". Since we were already 15 mins over the scheduled time, I just told him the modifications that I would do to fit in "k" letters.
 + Asked if I have any questions.
 
@@ -56,8 +56,8 @@ First round was 10:30 - 11:30 AM, second from 12:30 till 1:45 PM and third from 
 
 &nbsp;
 
-After almost 10 days, I got a call from HR for next set of interviews.\
-I had another weeks time to prepare for these rounds.\
+After almost 10 days, I got a call from HR for next set of interviews.<br>
+I had another weeks time to prepare for these rounds.<br>
 I was explicitly told that these will be design rounds.
 
 ## **Round 5 - System Design**
@@ -77,7 +77,7 @@ I was explicitly told that these will be design rounds.
 
 &nbsp;
 
-I used [pramp](https://www.pramp.com/) for mock interviews on system design and I found it to be really great platform.\
+I used [pramp](https://www.pramp.com/) for mock interviews on system design and I found it to be really great platform.<br>
 For problem solving, most of the interview questions are [LeetCode](https://leetcode.com/) Medium-Hard problems.
 
 Happy Preparation :)
