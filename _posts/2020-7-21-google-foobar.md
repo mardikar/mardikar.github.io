@@ -63,4 +63,4 @@ Glimpse of Foobar interface.
 ![Foobar Terminal](../img/Foobar_terminal.png)
 
 Invitation:
-![Invite](../img/FooBar.png)
+![Invite](../img/FooBar.jpg)
